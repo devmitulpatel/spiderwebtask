@@ -1,19 +1,18 @@
 Run project
-######run command "php artisan migrate:fresh --seed"
+###### run command "php artisan migrate:fresh --seed"
 
-
-####admin Credentials
+#### admin Credentials
 - email : speaker@admin.com
 - password : password
-####Important Links
+
+#### Important Links
 - dashboard link : {{url}} /dashboard
 - form link : {{url}} /dashboard
 
-####Auth
+#### Auth
 - jwt token: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6IjlBVGRLc3NSUV9LbUhQQXBNcUREOGciLCJleHAiOjE2NDcyNzMwMjUsImlhdCI6MTY0NjY2ODIyNX0.jvA1T-t9XttDx6xnXkRPtULy_iA3ziPX6R-lR3V8tBo'
 
-
-####Log
+#### Log
 
 - Create an application where a speaker should be able to schedule online zoom meetings to talk to one or more listeners. - done
 - The number of days and the time for a particular speech should be taken as an input while setting this meeting up. -done
